@@ -1,5 +1,7 @@
 public class sample {
     public static void main(String[] args) {
+        // あいうえお作文を作成する
+        // あいうえおの各文字に対して、文章を作成する
         String word_a = "朝から驚きの連続だ";
         String word_i = "いつもの朝とは様子が違う";
         String word_u = "嬉しい知らせが飛び込んできた";
