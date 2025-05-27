@@ -12,6 +12,7 @@ public class sample {
         mainFrame.setVisible(true);
 
         
+        
     }
 
 }
